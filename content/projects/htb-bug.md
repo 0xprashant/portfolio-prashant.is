@@ -1,6 +1,6 @@
 ---
 date: '2020-03-26'
-title: 'HackTheBox was vulnerable to reverse tabnapping'
+title: 'HackTheBox was vulnerable to reverse tabnabbing'
 github: ''
 external: 'https://blog.0xprashant.in/posts/htb-bug/'
 tech:
