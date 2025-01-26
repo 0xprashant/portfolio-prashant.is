@@ -1,9 +1,9 @@
 ---
 date: '2021-10-04'
-title: 'Senior Security Researcher'
+title: 'Senior Security Analyst'
 company: 'FireCompass'
 location: 'Bangalore, India (Remote)'
-range: 'Oct 2021 - Present'
+range: 'Oct 2021 - Dec 2024'
 url: 'https://www.firecompass.com/'
 ---
 

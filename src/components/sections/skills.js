@@ -107,17 +107,22 @@ const Skills = () => {
   }, [prefersReducedMotion]);
 
   const skills = [
+    { name: 'Red Teaming', level: 99 },
+    { name: 'Purple Teaming', level: 99 },
+    { name: 'Adversary Emulation and Simulation', level: 99 },
+    { name: 'Phishing Simulation', level: 99 },
+    { name: 'Security Research', level: 99 },
     { name: 'Web Application Penetration Testing', level: 99 },
     { name: 'Network Penetration Testing', level: 99 },
     { name: 'Active Directory Penetration Testing', level: 98 },
     { name: 'Attack Surface Reconnaissance', level: 100 },
-    { name: 'Security Automation (Python)', level: 98 },
-    { name: 'Adversary Emulation', level: 97 },
+    { name: 'Security Automation', level: 98 },
     { name: 'Source Code Review', level: 95 },
     { name: 'Network Forensics', level: 96 },
     { name: 'Linux System Hardening', level: 96 },
     { name: 'Incident Response and Log Analysis', level: 94 },
-  ];
+];
+
 
   return (
     <StyledAboutSection id="expertise" ref={revealContainer}>
